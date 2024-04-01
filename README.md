@@ -37,7 +37,8 @@ Finally, you can interpret the model's results to gain insight into the relation
 ## Program:
 ```
 
-Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+Program to implement the the Logistic Regression Model            
+to Predict the Placement Status of Student.
 Developed by: Yogeshvar M
 RegisterNumber:  212222230180
 
